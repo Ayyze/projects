@@ -1,0 +1,13 @@
+# Credits to https://github.com/danielmiessler/SecLists/blob/master/Usernames/top-usernames-shortlist.txt
+# This is a shortened version of the list.
+
+root
+admin
+test
+guest
+info
+adm
+mysql
+user
+administrator
+oracle
